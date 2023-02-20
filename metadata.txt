@@ -1,0 +1,18 @@
+[general]
+name=PyRocessing
+qgisMinimumVersion=3.0
+description=Execute Python code from graphical modeler.
+version=0.1
+author=Jérémy Kalsron
+email=jeremy.kalsron@gmail.com
+
+about=Plugin qui ajoute des traitements Processing pour comparer plusieurs MNT.
+
+tags=python, processing
+
+category=Plugins
+icon=icon.png
+
+experimental=True
+deprecated=False
+hasProcessingProvider=yes

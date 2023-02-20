@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/pyrocessing" >
+        <file>icon.svg</file>
+    </qresource>
+</RCC>
