@@ -12,6 +12,10 @@
             <translation>Entrées</translation>
         </message>
         <message>
+            <source>Python script</source>
+            <translation>Script Python</translation>
+        </message>
+        <message>
             <source>Vector output</source>
             <translation>Sortie vectorielle</translation>
         </message>
